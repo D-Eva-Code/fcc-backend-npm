@@ -5,7 +5,9 @@
 	},
 	"author": "Eva",
 	"description": "I am learning about package.json",
-	"keywords":["freeCodeCamp", "npm","package.json"],
+	"keywords":["freecodecamp", "npm","package.json"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"

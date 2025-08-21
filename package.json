@@ -3,6 +3,9 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Eva",
+	"description": "I am learning about package.json",
+	"keywords":["freeCodeCamp", "npm","package.json"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
